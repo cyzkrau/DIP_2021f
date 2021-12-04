@@ -42,7 +42,7 @@ def get_sep_label(  # get relationship between each cluster
     return ans
 
 
-def trans_color(  # mean function
+def trans_color(  # main function
     color,
     image,
     change_format,
