@@ -10,6 +10,6 @@ Now, here are 4 projects (updating..):
 - [Color Transfer](Color_Transfer)
 - [Poisson Editing](Poisson_Editing)
 - [Image Warping](Image_warping)
-- [Lazy Snapping](Lazy Snapping)
+- [Lazy_Snapping](Lazy_Snapping)
 
 Most of the code is based on numpy, opencv, matplotlib etc. in Python 3.8.10. 
